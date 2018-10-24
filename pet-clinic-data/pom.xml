@@ -3,25 +3,17 @@
     <parent>
         <artifactId>mf-pet-clinic</artifactId>
         <groupId>com.spring</groupId>
-        <version>0.0.2</version>
+        <version>0.0.1</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>pet-clinic-data</artifactId>
 
     <dependencies>
-
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-data-jpa</artifactId>
         </dependency>
-
-        <dependency>
-            <groupId>com.spring</groupId>
-            <artifactId>pet-clinic-web</artifactId>
-            <version>0.0.2</version>
-        </dependency>
-
         <dependency>
             <groupId>com.h2database</groupId>
             <artifactId>h2</artifactId>
