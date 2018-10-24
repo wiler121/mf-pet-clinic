@@ -17,6 +17,7 @@
         <module>pet-clinic-web</module>
     </modules>
 
+
     <packaging>pom</packaging>
 
     <name>mf-pet-clinic</name>
