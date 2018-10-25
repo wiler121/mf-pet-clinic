@@ -4,13 +4,14 @@
 
     <groupId>com.spring</groupId>
     <artifactId>mf-pet-clinic</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
 
     <scm>
         <connection>scm:git:git@github.com:wiler121/mf-pet-clinic.git</connection>
         <url>scm:git:git@github.com:wiler121/mf-pet-clinic.git</url>
         <developerConnection>scm:git:git@github.com:wiler121/mf-pet-clinic.git</developerConnection>
-    </scm>
+      <tag>mf-pet-clinic-0.0.2</tag>
+  </scm>
 
     <modules>
         <module>pet-clinic-data</module>
