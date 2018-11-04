@@ -4,6 +4,6 @@ import mf.spring.petclinic.model.Pet;
 
 
 
-public interface PetSerive extends CrudService<Pet, Long>{
+public interface PetService extends CrudService<Pet, Long>{
 
 }
