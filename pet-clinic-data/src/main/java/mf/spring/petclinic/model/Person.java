@@ -2,15 +2,15 @@ package mf.spring.petclinic.model;
 
 public class Person extends BaseEntity{
 
-    private String fristName;
+    private String firstName;
     private String lastName;
 
     public String getFristName() {
-        return fristName;
+        return firstName;
     }
 
     public void setFristName(String fristName) {
-        this.fristName = fristName;
+        this.firstName = fristName;
     }
 
     public String getLastName() {
