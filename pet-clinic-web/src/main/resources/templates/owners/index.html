@@ -7,7 +7,7 @@
 <body>
 <!--/*@thymesVar id="owner" type="mf.spring.petclinic.model.Owner"*/-->
 <h1 th:text="'List of Owners'">List of Owners</h1>
-<table >
+<table>
     <thead>
     <tr>
         <th>Id</th>
@@ -17,9 +17,9 @@
     </thead>
     <tbody>
     <tr th:each="owner : ${owners}">
-        <td th:text="${owner.getId()}">1</td>
-        <td th:text="${owner.getFristName()}">Mich</td>
-        <td th:text="${owner.getLastName()}">Flisz</td>
+        <td th:text="${owner.id}">1</td>
+        <td th:text="${owner.fristName}">Mich</td>
+        <td th:text="${owner.lastName}">Flisz</td>
     </tr>
     </tbody>
 </table>
