@@ -1,5 +1,14 @@
-C:\Users\Michal\Desktop\Pet Clinic\mf-pet-clinic\pet-clinic-data\src\main\java\mf\spring\petclinic\model\Person.java
-C:\Users\Michal\Desktop\Pet Clinic\mf-pet-clinic\pet-clinic-data\src\main\java\mf\spring\petclinic\model\Pet.java
 C:\Users\Michal\Desktop\Pet Clinic\mf-pet-clinic\pet-clinic-data\src\main\java\mf\spring\petclinic\model\PetType.java
+C:\Users\Michal\Desktop\Pet Clinic\mf-pet-clinic\pet-clinic-data\src\main\java\mf\spring\petclinic\services\map\OwnerServiceMap.java
+C:\Users\Michal\Desktop\Pet Clinic\mf-pet-clinic\pet-clinic-data\src\main\java\mf\spring\petclinic\services\map\AbstractMapService.java
+C:\Users\Michal\Desktop\Pet Clinic\mf-pet-clinic\pet-clinic-data\src\main\java\mf\spring\petclinic\model\BaseEntity.java
+C:\Users\Michal\Desktop\Pet Clinic\mf-pet-clinic\pet-clinic-data\src\main\java\mf\spring\petclinic\services\map\VetServiceMap.java
+C:\Users\Michal\Desktop\Pet Clinic\mf-pet-clinic\pet-clinic-data\src\main\java\mf\spring\petclinic\model\Person.java
+C:\Users\Michal\Desktop\Pet Clinic\mf-pet-clinic\pet-clinic-data\src\main\java\mf\spring\petclinic\services\VetService.java
+C:\Users\Michal\Desktop\Pet Clinic\mf-pet-clinic\pet-clinic-data\src\main\java\mf\spring\petclinic\services\map\PetServiceMap.java
+C:\Users\Michal\Desktop\Pet Clinic\mf-pet-clinic\pet-clinic-data\src\main\java\mf\spring\petclinic\services\OwnerService.java
+C:\Users\Michal\Desktop\Pet Clinic\mf-pet-clinic\pet-clinic-data\src\main\java\mf\spring\petclinic\model\Pet.java
 C:\Users\Michal\Desktop\Pet Clinic\mf-pet-clinic\pet-clinic-data\src\main\java\mf\spring\petclinic\model\Vet.java
 C:\Users\Michal\Desktop\Pet Clinic\mf-pet-clinic\pet-clinic-data\src\main\java\mf\spring\petclinic\model\Owner.java
+C:\Users\Michal\Desktop\Pet Clinic\mf-pet-clinic\pet-clinic-data\src\main\java\mf\spring\petclinic\services\PetService.java
+C:\Users\Michal\Desktop\Pet Clinic\mf-pet-clinic\pet-clinic-data\src\main\java\mf\spring\petclinic\services\CrudService.java
