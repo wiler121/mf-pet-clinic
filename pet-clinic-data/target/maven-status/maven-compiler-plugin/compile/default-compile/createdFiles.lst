@@ -1,0 +1,5 @@
+mf\spring\petclinic\services\map\VetServiceMap.class
+mf\spring\petclinic\services\map\PetServiceMap.class
+mf\spring\petclinic\services\map\OwnerServiceMap.class
+mf\spring\petclinic\services\PetService.class
+mf\spring\petclinic\services\OwnerService.class
