@@ -37,13 +37,13 @@ public class DataLoader implements CommandLineRunner {
     }
 
     private void loadData() {
-        PetType dog = new PetType();
-        dog.setName("Dog");
-        PetType saveDogPetType = petTypeService.save(dog);
-
-        PetType cat = new PetType();
-        cat.setName("Cat");
-        PetType saveCatPetType = petTypeService.save(cat);
+//        PetType dog = new PetType();
+//        dog.setName("Dog");
+//        PetType saveDogPetType = petTypeService.save(dog);
+//
+//        PetType cat = new PetType();
+//        cat.setName("Cat");
+//        PetType saveCatPetType = petTypeService.save(cat);
 
         Speciality radiology = new Speciality();
         radiology.setDescription("Radiologia");
@@ -65,7 +65,7 @@ public class DataLoader implements CommandLineRunner {
         owner1.setTelephone("111222333");
 
         Pet michalPet = new Pet();
-        michalPet.setPetType(saveDogPetType);
+        //michalPet.setPetType(saveDogPetType);
         michalPet.setOwner(owner1);
         michalPet.setBirthDate(LocalDate.now());
         michalPet.setName("WONSZ");
@@ -84,7 +84,7 @@ public class DataLoader implements CommandLineRunner {
         adiPet.setName("Catty");
         adiPet.setOwner(owner2);
         adiPet.setBirthDate(LocalDate.now());
-        adiPet.setPetType(saveCatPetType);
+        //adiPet.setPetType(saveCatPetType);
         owner2.getPets().add(adiPet);
 
         ownerService.save(owner2);
